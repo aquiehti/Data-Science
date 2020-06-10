@@ -3,7 +3,7 @@
 </p>
 
 # Ricardo Lopes
-<sub>*Data Science* Construindo minha carreira em DS </sub>
+<sub>*Data Science -* Construindo minha carreira em DS </sub>
 
 
 Trabalho a algum tempo com tecnologia, especificamente nas áreas de Infraestrutura e Suporte - Tecnólogo em Redes de Computadores.
@@ -15,11 +15,3 @@ Aqui começa a construção de minha carreira em Data Science!!!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ricardolopes10)
-
-
-
-
-
-
-
-
